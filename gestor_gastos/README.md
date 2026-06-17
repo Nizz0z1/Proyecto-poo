@@ -107,9 +107,7 @@ pytest -v
 
 ## Integrantes
 
-- *(Nombre del estudiante 1)*
-- *(Nombre del estudiante 2)*
-- *(Nombre del estudiante 3)*
+- *(Nicolas Castillo)*
 
 ## Licencia
 
