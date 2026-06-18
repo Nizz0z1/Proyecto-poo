@@ -1,4 +1,4 @@
-# 💰 Gestor de Gastos Personales
+#  Gestor de Gastos Personales
 
 ## Descripción
 
@@ -99,15 +99,15 @@ pytest -v
 
 ## Capturas de pantalla
 
-*(Agrega aquí las capturas tomadas del programa funcionando)*
-
-| Menú principal | Estadísticas | Gráfico |
-|---|---|---|
-| ![menu](docs/capturas/captura_menu.png) | ![stats](docs/capturas/captura_estadisticas.png) | ![grafico](docs/capturas/grafico_gastos.png) |
+| evidencia |
+|---|
+|<img width="893" height="640" alt="{94DFA129-6B6D-4EE4-8DF3-314DD577EB3F}" src="https://github.com/user-attachments/assets/b21af30f-bd53-47c6-a5a5-aacdd0e76c0a" />|
+|<img width="588" height="234" alt="{5F048F98-AB22-450F-B8C7-CB5926908A84}" src="https://github.com/user-attachments/assets/ee25ba78-1984-499a-8e55-8b0c5b91f012" />|
+|<img width="831" height="428" alt="{A5E32C46-5F78-45E4-A0AA-C91AD3F33423}" src="https://github.com/user-attachments/assets/e9640cba-c6c2-46f2-85d6-df31f553f235" />|
 
 ## Integrantes
 
-- *(Nicolas Castillo)*
+- *Nicolas Castillo*
 
 ## Licencia
 
