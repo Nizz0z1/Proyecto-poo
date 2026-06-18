@@ -72,7 +72,7 @@ Ver archivo [`docs/diagrama_clases.md`](docs/diagrama_clases.md) con el diagrama
 ## Instalación
 
 ```bash
-git clone https://github.com/TU_USUARIO/gestor-gastos-personales.git
+git clone https://github.com/Nizz0z1/Proyecto-poo.git
 cd gestor-gastos-personales
 pip install -r requirements.txt
 ```
